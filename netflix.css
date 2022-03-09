@@ -86,6 +86,25 @@
     border-top: 7px solid white;
     border-bottom: 7px solid white;
 }
+.grid3{
+    display: grid;
+    grid-template-columns: 1fr;
+    background-color: black;
+    border-top: 7px solid white;
+    border-bottom: 7px solid white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 10vw;
+}
+.watch_everywhere{
+    color: white;
+    font-size: 9vh;
+    margin-bottom: 2%;
+}
+.stream{
+    color: white;
+    font-size: 5vh;
+}
 .card1{
     margin-left: 15%;
     margin-top: 20%;
