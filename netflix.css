@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.text{
+    width: 30vw;
+    height: 10vh;
+    margin-left: 30%;
+    border: 0;
+    margin-top: 8px;
+    padding-left: 3%;
+}
+.start{
+    height: 10vh;
+    background-color: red;
+    border: 0;
+    border-radius: 5%;
+    font-weight: bolder;
+    color: white;
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+.container{
+    background-image: linear-gradient(to bottom right, #2b292980, #2b292980), url(images/netflix.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+.logo{
+    padding-left: 5%;
+    width: 12%;
+
+}
+.align{
+    justify-content: space-around;
+    margin-top: 5%;
+}
+.sign{
+    float: right;
+    width: 10%;
+    height: 10vh;
+    background-color: red;
+    color: white;
+    margin-top: 3%;
+    margin-right: 5%;
+    border: 0;
+    border-radius: 5%;
+    font-weight: bolder;
+}
+.do1{
+    color: white;
+    margin-left: 30%;
+    font-size: 10vh;
+}
+.do2{
+    color: white;
+    margin-left: 33%;
+    font-size: 10vh;
+}
+.do3{
+    color: white;
+    margin-left: 35%;
+    font-size: 5vh;
+}
+.do4{
+    color: white;
+    margin-left: 18%;
+    font-size: 5vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+}
+
+@media(max-width: 700px){
+    .align{
+        justify-content: space-around;
+        margin-top: 8%;
+    }
+    .logo{
+        padding-left: 5%;
+        width: 17%;
+    
+    }
+        
+.do1{
+    color: white;
+    margin-left: 20%;
+    font-size: 10vh;
+}
+.do2{
+    color: white;
+    margin-left: 25%;
+    font-size: 10vh;
+}
+.do3{
+    color: white;
+    margin-left: 26%;
+    font-size: 5vh;
+}
+.do4{
+    color: white;
+    margin-left: 20%;
+    font-size: 3vh;
+    margin-top: 2vh;
+}
+
+.text{
+    width: 30vw;
+    height: 10vh;
+    margin-left: 28%;
+    border: 0;
+    margin-top: 8px;
+    margin-right: 0;
+}
+}
