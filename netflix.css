@@ -166,6 +166,20 @@
 .card4{
     margin-top: 18%;
 }
+.footer_grids{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 70vw;
+    margin-left: 10vw;
+}
+.footer_grids ul{
+    list-style-type: none;
+}
+
+
+
+
+
 
 
 
