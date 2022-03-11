@@ -166,14 +166,127 @@
 .card4{
     margin-top: 18%;
 }
+
+
+
+.footer{
+    color: rgba(255, 255, 255, 0.432);
+    background-color: black;
+    height: 50vh;
+}
 .footer_grids{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 0.4fr 0.4fr 0.4fr 0.4fr;
     width: 70vw;
     margin-left: 10vw;
+    padding-bottom: 3vh;
 }
 .footer_grids ul{
     list-style-type: none;
+}
+.FAQ{
+    background-color: black;
+}
+.FAQ h1{
+    color: white;
+}
+.faq_h1{
+    font-size: 8vh;
+    padding-top: 3vh;
+    padding-top: 3vh;
+    text-align: center;
+    padding-bottom: 3vh;
+}
+.questions{
+    margin-left: 10vw;
+    padding-top: 10vh;
+    margin-bottom: 5vh;
+}
+
+.footer_grid1 ul li{
+    margin-top: 2vh;
+}
+.footer_grid2 ul li{
+    margin-top: 2vh;
+}
+.footer_grid3 ul li{
+    margin-top: 2vh;
+}
+.footer_grid4 ul li{
+    margin-top: 2vh;
+}
+.reuse{
+    background-color: black;
+    border-bottom: 7px solid white;
+    padding-bottom: 3vh;
+}
+.what_is_netflix{
+    width: 50vw;
+    color: white;
+    background: rgba(100, 97, 97, 0.712);
+    border: 0;
+    padding: 3vh;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25vw;
+}
+.how_much{
+    width: 50vw;
+    color: white;
+    background: rgba(100, 97, 97, 0.712);
+    border: 0;
+    padding: 3vh;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vh;
+    margin-left: 25vw;
+}
+.where{
+    width: 50vw;
+    color: white;
+    background: rgba(100, 97, 97, 0.712);
+    border: 0;
+    padding: 3vh;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vh;
+    margin-left: 25vw;
+
+}
+.how{
+    width: 50vw;
+    color: white;
+    background: rgba(100, 97, 97, 0.712);
+    border: 0;
+    padding: 3vh;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vh;
+    margin-left: 25vw;
+    
+}
+.what{
+    width: 50vw;
+    color: white;
+    background: rgba(100, 97, 97, 0.712);
+    padding: 3vh;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vh;
+    border: 0;
+    margin-left: 25vw;
+}
+.for_kids{
+    width: 50vw;
+    color: white;
+    background: rgba(100, 97, 97, 0.712);
+    border: 0;
+    padding: 3vh;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1vh;
+    margin-left: 25vw;
+
 }
 
 
