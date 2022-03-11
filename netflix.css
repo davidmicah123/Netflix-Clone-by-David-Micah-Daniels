@@ -2,6 +2,16 @@
     margin: 0;
     padding: 0;
 }
+.signin_btn{
+    font-size: 16px;
+}
+.get_started_btn{
+    font-size: 16px;
+
+}
+.footer{
+    font-size: 16px;
+}
 .text{
     width: 40vw;
     height: 10vh;
