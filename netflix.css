@@ -92,8 +92,12 @@
 .video{
     position: absolute;
     left: 62vw;
-    margin-top: 2vh;
+    margin-top: 13vh;
     height: 32vh;
+    
+}
+.wow{
+    
 }
 .grid2{
     display: grid;
@@ -149,15 +153,20 @@
 .card1{
     margin-left: 15%;
     margin-top: 20%;
+    padding-bottom: 40vh;
+    position: relative;
+    top: 20vh;
 }
 .enjoy{
     color: white;
     font-size: 7vh;
     margin-bottom: 2vh;
+    padding-bottom: 2vh;
 }
 .enjoy_text{
     color: white;
     font-size: 5vh;
+    margin-bottom: 2vh;
 }
 .wow{
     width: 40vw;
