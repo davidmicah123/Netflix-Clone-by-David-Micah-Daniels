@@ -89,6 +89,12 @@
     border-top: 7px solid white;
     border-bottom: 7px solid white;
 }
+.video{
+    position: absolute;
+    left: 62vw;
+    margin-top: 2vh;
+    height: 32vh;
+}
 .grid2{
     display: grid;
     grid-template-columns: 1fr 1fr;
