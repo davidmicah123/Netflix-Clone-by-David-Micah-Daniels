@@ -373,3 +373,54 @@
     margin-right: 0;
 }
 }
+
+@media (max-width: 500px) {
+    body{
+        width: 500px;
+    }
+    .grid1{
+        display: grid;
+        grid-template-columns: 1fr;
+        background-color: black;
+        border-top: 7px solid white;
+        border-bottom: 7px solid white;
+    }
+    .grid2{
+        display: grid;
+        grid-template-columns:  1fr;
+        background-color: black;
+        border-top: 7px solid white;
+        border-bottom: 7px solid white;
+    }
+    .grid3{
+        display: grid;
+        grid-template-columns: 1fr;
+        background-color: black;
+        border-top: 7px solid white;
+        border-bottom: 7px solid white;
+        padding-top: 3%;
+        padding-bottom: 3%;
+        padding-left: 10vw;
+    }
+    .grid4{
+        display: grid;
+        grid-template-columns:  1fr;
+        background-color: black;
+        border-top: 7px solid white;
+        border-bottom: 7px solid white;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+    .video{
+        height: 32vh;
+        position: relative;
+        left: 0;
+    }
+    .card2{
+        margin-top: 20%;
+    }
+    .kids{
+        width: 40vw;
+        margin-left: 30vw;
+    }
+}
