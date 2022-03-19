@@ -377,6 +377,7 @@
 @media (max-width: 500px) {
     body{
         width: 500px;
+        overflow-x: hidden;
     }
     .grid1{
         display: grid;
@@ -422,5 +423,35 @@
     .kids{
         width: 40vw;
         margin-left: 30vw;
+    }
+    .lad{
+        width: 55vw;
+        margin-bottom: 3%;
+        margin-left: 20vw;
+    }
+            
+    .what_is_netflix{
+        width: 70vw;
+        margin-left: 12vw;
+    }
+    .how_much{
+        width: 70vw;
+        margin-left: 12vw;
+    }
+    .where{
+        width: 70vw;
+        margin-left: 12vw;
+    }
+    .how{
+        width: 70vw;
+        margin-left: 12vw;
+    }
+    .what{
+        width: 70vw;
+        margin-left: 12vw;
+    }
+    .for_kids{
+        width: 70vw;
+        margin-left: 12vw;
     }
 }
